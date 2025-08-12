@@ -1,0 +1,7 @@
+Expense,Amount
+"Basic 10,000|Salary Advance","1,000"
+[OT Hours 50 [Other Deductions,=
+[oT Rate,75
+[OT Payment,3750|
+"[Total Payment 13,750| Total Dedctions","1,000"
+"Net Pay: 12,750",1
